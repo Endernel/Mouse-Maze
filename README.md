@@ -3,7 +3,7 @@
 Mouse Maze is a simple yet engaging game where player navigate a mouse through a maze to reach the cheese while avoiding obstacles. Test your precision and reflexes in this fun challenge!
 
 ## About the Game
-In this game, the goal is to guide the mouse to the cheese without touching the maze walls. If you hit a boundary, the game resets and you must try again!
+In this game, the goal is to guide the mouse to the cheese without touching the maze walls. If you hit a boundary, the game resets and you must try again! 
 
 ## Features
 - Interactive maze gameplay.
