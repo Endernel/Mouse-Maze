@@ -11,9 +11,6 @@ In this game, the goal is to guide the mouse to the cheese without touching the 
 - Instant feedback on win or loss.
 - Restart button to play again.
 
-## Technologies 
-- HTML, CSS, JavaScript
-
 ## How to Play
 1. Move your cursor over the starting position (mouse image) to begin.
 2. Carefully navigate through the maze without touching the gray walls.
